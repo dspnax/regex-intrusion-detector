@@ -11,7 +11,7 @@ expressions to detect common attack patterns in system logs.
 
 ### Technologies
 - Python
-- Regular Expressions
+- Regular expressions
 - Log analysis
 
 ### Limitations
